@@ -1,10 +1,14 @@
 Aquivo de exemplos para .md
 
 *italico*
+
 **negrito**
+
 `codigo`
+
 * item de lista
 * outro item
+
 1. primeiro item
 2. segundo item
 
@@ -24,5 +28,4 @@ Título 2
 [Clique aqui para pesquisar](https://www.google.com.br/ "Google")
 
 ![meeh](https://www.spreadshirt.com/image-server/v1/mp/designs/12079478,width=178,height=178/shrug-emoticon-japanese-kaomoji.png "Meeh")
-
 
